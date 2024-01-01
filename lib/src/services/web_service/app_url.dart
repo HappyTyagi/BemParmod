@@ -68,6 +68,7 @@ class SecurityConfiguration {
   // Encription key for shared preference
   static const String encriptionKey = "ccnMd0HlyuKrc8lHwWZKUfCMEkXd1wwO";
 
+
   //IV key
   static const String iVKey = "090FB8D1322A5920";
 }
